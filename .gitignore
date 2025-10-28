@@ -1,28 +1,28 @@
 # IntelliJ IDEA
 .idea/
-*.iml
+# *.iml
 
 # VS Code
 .vscode/
 
-# Build / Output
-out/
-build/
-target/
-dist/
+# # Build / Output
+# out/
+# build/
+# target/
+# dist/
 
-# Logs
-*.log
+# # Logs
+# *.log
 
-# System files
-.DS_Store
-Thumbs.db
+# # System files
+# .DS_Store
+# Thumbs.db
 
-# Environment / secrets
-.env
-*.key
-*.pem
+# # Environment / secrets
+# .env
+# *.key
+# *.pem
 
-# Cache
-.gradle/
-.cache/
+# # Cache
+# .gradle/
+# .cache/
